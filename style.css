@@ -1,0 +1,178 @@
+body {
+    background-color: #64247C;
+}
+
+.HB {
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 10%;
+    padding: 2%;
+    float: right;
+    font-weight: bolder;
+
+
+}
+
+
+.line-1 {
+    height: 2px;
+    background: white;
+    margin-top: -2%;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+    font-size: clamp(30px,2.5vw,50px);
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+
+.button {
+    background-color: white;
+    border: none;
+    color: #64247C;
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-top: 120px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+    object-fit: cover;
+    object-position: center;
+}
+
+.Doc {
+    height: 250px;
+    width: 200px;
+    border-style: none;
+    border-radius: 0;
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+}
+
+.Headinfo {
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+    margin-left: 10%;
+
+}
+
+h3 {
+    color: white;
+    font-size: 16px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 300;
+    margin-left: 10%;
+
+
+
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+.Mat {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+
+}
+
+.Mathead {
+    font-size: clamp(25px, 2.5vw, 40px);
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+}
+
+
+
+.Jack {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+
+.Jackhead {
+    font-size: clamp(25px, 2.5vw, 40px);
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+}
+
+.Namsai {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+.Namsaihead {
+    font-size: clamp(25px, 2.5vw, 40px);
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 400;
+}
+
+.contact {
+    font-size: clamp(25px,2.5vw,50px);
+    float: left;
+    margin-left: 40px;
+}
+
+.contactinfo {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    object-position: center;
+   
+}
+
